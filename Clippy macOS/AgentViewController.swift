@@ -40,7 +40,7 @@ class AgentViewController: NSViewController {
     }
     
     func startTimer(){
-        idleTimer = Timer.scheduledTimer(timeInterval: 30.0, target: self, selector: #selector(AgentViewController.animateIdlely), userInfo: nil, repeats: true)
+        idleTimer = Timer.scheduledTimer(timeInterval: 180.0, target: self, selector: #selector(AgentViewController.animateIdlely), userInfo: nil, repeats: true)
     }
     
     func resetTimer(){
