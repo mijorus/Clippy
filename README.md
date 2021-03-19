@@ -1,4 +1,6 @@
-# Clippy
+# Clippy with Idle Animations!
+
+**This version of Clippy adds idle animations every 180 seconds. Awesome!**
 
 Yes, Clippy from Microsoft Office is back — on macOS!
 
